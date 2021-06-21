@@ -1,6 +1,9 @@
 # Smoke Detector
 
-## Author: Abhishek Ghosh, Moumita Mukherjee
+### Original Author: Abhishek Ghosh, Moumita Mukherjee
+### For cite this project, please refer to original author 
+
+## Editied by : Didi Ruhyadi (428644)
 
 # Team
 
