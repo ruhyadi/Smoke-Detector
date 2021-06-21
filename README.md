@@ -1,4 +1,4 @@
-# Smoke-Detection-using-Tensorflow 2.2
+# Smoke Detector
 
 ## Author: Abhishek Ghosh, Moumita Mukherjee
 
